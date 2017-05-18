@@ -290,3 +290,4 @@ section {
 }
 .qoutes li { display:inline; line-height: 140%; }
 .qoutes li::before { content: " .•*´¨`*•.¸¸.•* "; font-weight: bold;}
+h1 em { font-style: inherit; font-size: 116%; }
